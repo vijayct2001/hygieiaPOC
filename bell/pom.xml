@@ -73,7 +73,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>bellaliantCounterWebApp</finalName>
+		<finalName>bell</finalName>
 
 		<plugins>
 		    <!-- Eclipse project -->
