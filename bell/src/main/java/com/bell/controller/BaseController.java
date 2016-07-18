@@ -22,6 +22,7 @@ public class BaseController {
 		logger.debug("[welcome] counter : {}", counter);
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
+		// test1
 		return VIEW_INDEX;
 
 	}
