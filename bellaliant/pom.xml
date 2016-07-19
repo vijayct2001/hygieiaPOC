@@ -6,7 +6,7 @@
 	<artifactId>bellaliant</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Bell Aliant CounterWebApp Maven Webapp</name>
+	<name>Bell Aliant CounterWebApp Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
