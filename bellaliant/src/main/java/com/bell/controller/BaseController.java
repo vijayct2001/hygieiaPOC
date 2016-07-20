@@ -21,7 +21,8 @@ public class BaseController {
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcome] counter : {}", counter);
                 // updated project properties details for hygieia integration
-		// Spring uses InternalResourceViewResolver and return back index.jsp
+		// Spring uses InternalResourceViewResolver and return back index.
+		// updating counter parameters
 		return VIEW_INDEX;
 
 	}
