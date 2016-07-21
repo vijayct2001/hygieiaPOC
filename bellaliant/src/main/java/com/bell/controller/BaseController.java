@@ -23,6 +23,7 @@ public class BaseController {
                 // updated project properties details for hygieia integration
 		// Spring uses InternalResourceViewResolver and return back index.
 		// updating counter parameters
+		// Code Promtion Applied in QA and INT environment
 		return VIEW_INDEX;
 
 	}
