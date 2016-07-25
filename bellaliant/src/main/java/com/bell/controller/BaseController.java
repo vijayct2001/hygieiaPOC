@@ -24,6 +24,7 @@ public class BaseController {
 		// Spring uses InternalResourceViewResolver and return back index.
 		// updating counter parameters
 		// Code Promtion Applied in QA and INT environment
+		// included live data
 		return VIEW_INDEX;
 
 	}
